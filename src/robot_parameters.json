@@ -1,0 +1,24 @@
+{
+    "tower": [{
+    "tower_height": 0,
+    "tower_arm_length": 0,
+    "tower_arm_width": 0,
+    "tower_arm_height": 0
+    }],
+    "forearm": [{
+        "forearm_length": 0,
+        "forearm_width": 0,
+        "forearm_height": 0
+    }],
+    "wrist": [{
+        "wrist_length": 0,
+        "wrist_width": 0,
+        "wrist_height": 0
+    }],
+    "end_effector": [{
+        "end_effector_length": 0,
+        "end_effector_width": 0,
+        "end_effector_height": 0
+    }]
+
+  }

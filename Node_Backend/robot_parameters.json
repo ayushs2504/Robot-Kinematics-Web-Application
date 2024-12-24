@@ -1,0 +1,24 @@
+{
+    "tower": [{
+    "tower_height": 90,
+    "tower_arm_length": 60,
+    "tower_arm_width": 10,
+    "tower_arm_height": 1
+    }],
+    "forearm": [{
+        "forearm_length": 30,
+        "forearm_width": 10,
+        "forearm_height": 1
+    }],
+    "wrist": [{
+        "wrist_length": 30,
+        "wrist_width": 10,
+        "wrist_height": 1
+    }],
+    "end_effector": [{
+        "end_effector_length": 10,
+        "end_effector_width": 10,
+        "end_effector_height": 5
+    }]
+
+  }
